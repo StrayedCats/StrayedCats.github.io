@@ -1,0 +1,47 @@
+site_name: StrayedCats
+site_url: https://github.com/StrayedCats/StrayedCats.github.io
+site_author: StrayedCats
+copyright: |
+  &copy; 2024 StrayedCats
+  <br>
+  All rights reserved.
+
+repo_name: StrayedCats
+repo_url: https://github.com/StrayedCats
+edit_uri: ''
+docs_dir: docs
+
+theme:
+  name: material
+  favicon: images/favicon.svg
+  icon:
+    logo: material/cat
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.indexes
+    - navigation.top
+    - toc.integrate
+# extra:
+#   social:
+#     - type: github
+#       link: https://github.com/StrayedCats
+nav:
+  - Home: index.md
+  - Members: members.md
+  # - Products: products.md
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra_css:
+  - stylesheets/extra.css
+  - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css
