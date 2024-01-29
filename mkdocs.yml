@@ -13,7 +13,7 @@ docs_dir: docs
 
 theme:
   name: material
-  favicon: images/favicon.svg
+  favicon: images/favicon.png
   icon:
     logo: material/cat
   features:

@@ -6,7 +6,7 @@ hide:
 ---
 
 <div align="center">
-    <img src="asset/StrayedCats_2.svg" alt="Logo" width="420" height="420">
+    <img src="asset/StrayedCats_2.png" alt="Logo" width="420" height="420">
 </div>
 <br><br>
 <!-- <h1><b>StrayedCats</b></h1> -->
