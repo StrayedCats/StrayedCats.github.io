@@ -31,7 +31,7 @@ hide:
         <img src="https://github.com/TakanoTaiga.png">
       </figure>
       <div class="name">Taiga</div>
-      <div class="role">運営、シミュレータ</div>
+      <div class="role">シミュレータ</div>
       <div class="social-icons">
         <a href="https://twitter.com/tg3517" target="_blank">
           <img src="../images/x-twitter.svg" style="width: 20px; height: 20px;">
